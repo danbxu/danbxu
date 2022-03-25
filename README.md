@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Xu.
-     I am currently in my last semester at UPenn's MCIT program. 
+     I am currently in my last semester of MCIT program at University of Pennsylvania. 
 -  I’m looking to become a full-time Software Developer
 -  I’m currently learning about Product Design and Big Data Analytics
 -  Feel free to email me at danbxu@seas.upenn.edu
