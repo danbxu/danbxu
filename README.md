@@ -2,8 +2,7 @@
      I am currently in my last semester at UPenn's MCIT program. 
 -  I’m looking to become a full-time Software Developer
 -  I’m currently learning about Product Design and Big Data Analytics
--  How to reach me
-     Feel free to email me at danbxu@seas.upenn.edu
+-  Feel free to email me at danbxu@seas.upenn.edu
 
 <!---
 danbxu/danbxu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
