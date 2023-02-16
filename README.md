@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Daniel Xu.
--  I’m looking to become a full-time Software Developer
 -  Feel free to email me at danbxu@seas.upenn.edu
 
 <!---
